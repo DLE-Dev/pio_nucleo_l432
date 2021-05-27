@@ -1,0 +1,26 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: arm-none-eabi-gcc.exe générer le fichier actif",
+			"command": "C:/Users/dleval/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/arm-none-eabi-gcc.exe",
+			"args": [
+				"-g",
+				"${file}",
+				"-o",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe",
+				"-mthumb",
+				"-mcpu=cortex-m4"
+			],
+			"options": {
+				"cwd": "C:/Users/dleval/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "compilateur : C:/Users/dleval/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/arm-none-eabi-gcc.exe"
+		}
+	]
+}
