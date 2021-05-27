@@ -4,6 +4,6 @@
 .vscode/launch.json
 .vscode/ipch
 build
-stm32cube\Drivers
-stm32cube\Inc
-stm32cube\Src
+stm32cube/Drivers
+stm32cube/Inc
+stm32cube/Src
