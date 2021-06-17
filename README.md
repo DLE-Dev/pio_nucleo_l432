@@ -7,7 +7,9 @@ Example project for PlatformIO with STM32cube and Ceedling
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![version](https://img.shields.io/badge/version-1.0-blue)
 
-Article related to the example project: [PlatformIO avec STM32cube et Ceedling (FR)](https://dle-dev.com/index.php/2021/05/25/platformio-avec-stm32cube-et-ceedling)
+Article related to the example project: 
+- [PlatformIO avec STM32cube et Ceedling (FR)](https://dle-dev.com/index.php/2021/05/25/platformio-avec-stm32cube-et-ceedling)
+- [PlatformIO with STM32Cube and Ceedling (EN)](https://dle-dev.com/index.php/en/2021/05/28/platformio-with-stm32cube-and-ceedling/)
 
 Tutorial for using PlatformIO with STM32cube and Ceedling. TDD development and integrated debugging. 
 
